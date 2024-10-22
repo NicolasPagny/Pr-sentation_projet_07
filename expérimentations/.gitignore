@@ -1,0 +1,8 @@
+training.*
+saved*
+logs*
+mlruns*
+results*
+*mlartifacts
+__pycache__/
+best_model/
